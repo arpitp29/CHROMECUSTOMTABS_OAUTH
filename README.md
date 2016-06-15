@@ -10,7 +10,7 @@ change the links accordingly in MainActivity
 is used for closing custom tabs as the user move to another activity
 
 Deep linking is used here to launch a activity after a particular link is opened in chrome custom tab.
-Know More : [Chrome Custom Tabs](https://developer.chrome.com/multidevice/android/customtabs)
+Know More : [Chrome Custom Tabs](https://developer.chrome.com/multidevice/android/customtabs),
             [Deep Linking in Android](https://developer.android.com/training/app-indexing/deep-linking.html)
 
 
