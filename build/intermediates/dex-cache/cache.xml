@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/arpit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d0b878ae4a93fe7569ac9f8dc072ffae120c805e/classes.dex" />
+    </item>
+    <item
+        jar="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_d734a3b97ff6d1a72341632ca1c4fb3e6db33853/classes.dex" />
+    </item>
+    <item
+        jar="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6a172e84d9dcc34b5133316b070e6f31adcfb68">
+        <dex dex="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.1.0_1cf881e6f953c35e761374deb5590e06671a9f7d/classes.dex" />
+    </item>
+    <item
+        jar="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="adecd960f0681562db6964e0abdf27c6e6ed9d41">
+        <dex dex="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c420044f194451db80db638e635390197557698f/classes.dex" />
+    </item>
+    <item
+        jar="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_cb7afc537aa879f49aa91bc719ff66364a6bbfa7/classes.dex" />
+    </item>
+    <item
+        jar="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_0c8a61c8a4858d26deec56a35b49fb767da9bc2f/classes.dex" />
+    </item>
+    <item
+        jar="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_8f039e906a37b44822a0065979150904b7d2c4e4/classes.dex" />
+    </item>
+    <item
+        jar="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_add8c01aab3d4b62c15bb4429e461ce85c33fdd3/classes.dex" />
+    </item>
+    <item
+        jar="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0b928765403ab71e285872a9fd162882fed8141">
+        <dex dex="/home/arpit/Music/ANDROIDVITA/GoogleCustomTabexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_867ed5da7261c944fd757e061c8b9c2d0be53737/classes.dex" />
+    </item>
+
+</items>
